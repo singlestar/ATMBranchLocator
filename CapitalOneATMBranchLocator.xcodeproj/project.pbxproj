@@ -15,6 +15,7 @@
 		3010E3101D372FA400256F47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3010E30E1D372FA400256F47 /* LaunchScreen.storyboard */; };
 		3010E31B1D372FA400256F47 /* CapitalOneATMBranchLocatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3010E31A1D372FA400256F47 /* CapitalOneATMBranchLocatorTests.swift */; };
 		3010E3261D372FA400256F47 /* CapitalOneATMBranchLocatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3010E3251D372FA400256F47 /* CapitalOneATMBranchLocatorUITests.swift */; };
+		3010E3341D384DCE00256F47 /* ATMDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3010E3331D384DCE00256F47 /* ATMDataModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3010E3211D372FA400256F47 /* CapitalOneATMBranchLocatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CapitalOneATMBranchLocatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3010E3251D372FA400256F47 /* CapitalOneATMBranchLocatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CapitalOneATMBranchLocatorUITests.swift; sourceTree = "<group>"; };
 		3010E3271D372FA400256F47 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3010E3331D384DCE00256F47 /* ATMDataModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ATMDataModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3010E30E1D372FA400256F47 /* LaunchScreen.storyboard */,
 				3010E3111D372FA400256F47 /* Info.plist */,
 				3010E3091D372FA400256F47 /* CapitalOneATMBranchLocator.xcdatamodeld */,
+				3010E3331D384DCE00256F47 /* ATMDataModel.swift */,
 			);
 			path = CapitalOneATMBranchLocator;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				3010E3051D372FA400256F47 /* ViewController.swift in Sources */,
 				3010E30B1D372FA400256F47 /* CapitalOneATMBranchLocator.xcdatamodeld in Sources */,
+				3010E3341D384DCE00256F47 /* ATMDataModel.swift in Sources */,
 				3010E3031D372FA400256F47 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

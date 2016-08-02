@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CapitalOneATMBranchLocator
 //
-//  Created by Rajesh kumar Subbiah on 7/13/16.
+//  Created by Rajesh kumar Subbiah on 7/14/16.
 //  Copyright © 2016 Rajesh kumar Subbiah. All rights reserved.
 //
 
